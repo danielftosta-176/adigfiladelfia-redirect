@@ -1,5 +1,4 @@
-# Adig Filadelfia
-Site da Adig Filadélfia está fora do ar!
+Adig Filadélfia está fora do ar!
 
 # Por quê?
 Ainda estamos criando o site.
