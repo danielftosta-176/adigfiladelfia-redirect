@@ -6,5 +6,5 @@ Site da Adig Filadélfia fora do ar!
 
 Ainda estamos estruturando o site.
 
-## Adig Filadélfia
+## Teste beta
 Teste beta não disponível, Disponível só para administradores!
