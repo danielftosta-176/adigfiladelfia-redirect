@@ -1,8 +1,9 @@
 body {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  }
+}
   
 .cabecalho {
+  animation: 5s linear footeroftop;
   position: fixed;
   width: 0%;
   background-color: #008504;
