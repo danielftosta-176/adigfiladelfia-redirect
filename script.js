@@ -4,6 +4,8 @@ FEITO POR DANIELFTOSTA176
 */
 
 function startup() {
+   window.location.href = "casa"
+   /*
 setTimeout( function() {
    document.getElementById("parac").innerHTML = "Carregando."
    document.getElementById("captcha").style.width = "0"
@@ -61,7 +63,7 @@ setTimeout( function() {
 }, 1500)
 
 }
-
+*/
 }
 
 function next() {
