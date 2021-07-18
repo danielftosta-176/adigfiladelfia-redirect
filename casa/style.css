@@ -1,7 +1,13 @@
 body {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
-  
+
+.warn {
+background-color: #ff9999;
+width: 100%;
+border-left: #ff0000, solid;
+}
+
 .cabecalho {
   animation: 5s linear footeroftop;
   position: fixed;
