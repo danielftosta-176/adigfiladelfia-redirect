@@ -6,7 +6,7 @@ FEITO POR DANIELFTOSTA176
 function startup() {
    setTimeout( function() {
     document.getElementById("titlec").innerHTML = "Adig Filadélfia"
-    document.getElementById("parac").innerHTML = " "
+    document.getElementById("parac").innerHTML = "Detectando se seu Navegador tem algum Malware"
 }, 1000)
    setTimeout( function() {
     document.getElementById("titlec").innerHTML = "Bem-Vindo!"
