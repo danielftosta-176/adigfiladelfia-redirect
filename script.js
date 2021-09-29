@@ -4,27 +4,13 @@ FEITO POR DANIELFTOSTA176
 */
 
 function startup() {
-   window.location.href = "casa"
-   /*
+   setTimeout( function() {
+    document.getElementById("titlec").innerHTML = "Bem-Vindo!"
+    document.getElementById("parac").innerHTML = "Seu navegador foi aprovado!"
+   }, 1000)
 setTimeout( function() {
-   document.getElementById("parac").innerHTML = "Carregando."
-   document.getElementById("captcha").style.width = "0"
-    document.getElementById("insert").style.width = "0"
-    document.getElementById("insert").innerHTML = ""
-}, 20)
-
-setTimeout( function() {
-    document.getElementById("parac").innerHTML = "Carregando.."
-}, 500)
-
-setTimeout( function() {
-    document.getElementById("parac").innerHTML = "Esperando Resposta"
-    document.getElementById("titlec").innerHTML = "Aperte OK para continuar"
-}, 750)
-
-
-}
-*/
+ window.location.href = "casa"
+}, 1500)
 }
 
 function next() {
