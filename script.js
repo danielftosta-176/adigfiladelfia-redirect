@@ -5,12 +5,16 @@ FEITO POR DANIELFTOSTA176
 
 function startup() {
    setTimeout( function() {
+    document.getElementById("titlec").innerHTML = "Adig Filadélfia"
+    document.getElementById("parac").innerHTML = " "
+}, 1000)
+   setTimeout( function() {
     document.getElementById("titlec").innerHTML = "Bem-Vindo!"
     document.getElementById("parac").innerHTML = "Seu navegador foi aprovado!"
-   }, 1000)
+   }, 1500)
 setTimeout( function() {
  window.location.href = "casa"
-}, 1500)
+}, 2000)
 }
 
 function next() {
