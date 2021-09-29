@@ -14,7 +14,7 @@ function startup() {
    }, 1500)
 setTimeout( function() {
  window.location.href = "casa"
-}, 2000)
+}, 5000)
 }
 
 function next() {
